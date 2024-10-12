@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <manifest>
-  <control namespace="exodia" constructor="PCFInfoCallout" version="0.0.1" display-name-key="PCFInfoCallout" description-key="PCFInfoCallout description" control-type="virtual">
+  <control namespace="nunosubtil" constructor="PCFInfoCallout" version="0.0.1" display-name-key="PCFInfoCallout" description-key="PCFInfoCallout description" control-type="virtual">
     <external-service-usage enabled="false">
     </external-service-usage>
     <property name="column" display-name-key="Column" description-key="Specifies the column that this property is bound to." of-type="SingleLine.Text" usage="bound" required="false" />
