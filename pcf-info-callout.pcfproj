@@ -9,6 +9,11 @@
 
   <PropertyGroup>
     <Name>pcf-info-callout</Name>
+    <PublisherName>exodia</PublisherName> 
+    <CustomizationPrefix>exodia</CustomizationPrefix> 
+    <Version>1.0.0.1</Version> 
+    <License>MIT</License> 
+    <Description>A modern info callout control for PowerApps developed by Exodia</Description>
     <ProjectGuid>714efeef-e19d-422b-a11c-31079c13dd0d</ProjectGuid>
     <OutputPath>$(MSBuildThisFileDirectory)out\controls</OutputPath>
   </PropertyGroup>
