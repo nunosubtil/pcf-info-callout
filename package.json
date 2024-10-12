@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@fluentui/react": "^8.29.0",
-    "react-dom": "^18.3.1"
+    "react-dom": "^16.8.6"
   },
   "devDependencies": {
     "@microsoft/eslint-plugin-power-apps": "^0.2.33",
@@ -31,7 +31,7 @@
     "eslint-plugin-react": "^7.34.1",
     "pcf-scripts": "^1",
     "pcf-start": "^1",
-    "react": "^18.3.1",
+    "react": "^16.8.6",
     "typescript": "^4.9.5"
   }
 }
