@@ -16,7 +16,7 @@ The Info Callout PCF (PowerApps Component Framework) component provides the capa
 
 ## Usage
 
-Click here to [download]() the managed solution that you can use to import the control into your environment.
+Click here to [download](https://github.com/nunosubtil/pcf-info-callout/releases/tag/v1.0.0.1) the managed solution that you can use to import the control into your environment.
 
 ## License
 
